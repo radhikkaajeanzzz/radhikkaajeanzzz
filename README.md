@@ -1,7 +1,3 @@
-#Hi, I'm Radhika 👋
-I'm passionate about Data Analysis 📊 and love transforming raw data into meaningful insights.<br>
-Skilled in SQL 🗄️, Python 🐍, Excel 📈, and Power BI 📊.<br>
-Always eager to learn, solve problems, and contribute to impactful data-driven projects 🚀<br>
 
 # 💫 About Me:
 #Hi, I'm Radhika 👋<br>I'm passionate about Data Analysis 📊 and love transforming raw data into meaningful insights.<br><br>Skilled in SQL 🗄️, Python 🐍, Excel 📈, and Power BI 📊.<br><br>Always eager to learn, solve problems, and contribute to impactful data-driven projects 🚀<br>
